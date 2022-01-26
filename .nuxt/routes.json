@@ -1,0 +1,62 @@
+[
+  {
+    "name": "album",
+    "path": "/album",
+    "component": "/Users/sanjana/work/Vue/CRUD/pages/album.vue",
+    "chunkName": "pages/album"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/sanjana/work/Vue/CRUD/pages/inspire.vue",
+    "chunkName": "pages/inspire"
+  },
+  {
+    "name": "landing",
+    "path": "/landing",
+    "component": "/Users/sanjana/work/Vue/CRUD/pages/landing.vue",
+    "chunkName": "pages/landing"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/sanjana/work/Vue/CRUD/pages/login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "play",
+    "path": "/play",
+    "component": "/Users/sanjana/work/Vue/CRUD/pages/play.vue",
+    "chunkName": "pages/play"
+  },
+  {
+    "name": "posts",
+    "path": "/posts",
+    "component": "/Users/sanjana/work/Vue/CRUD/pages/posts.vue",
+    "chunkName": "pages/posts"
+  },
+  {
+    "name": "startgame",
+    "path": "/startgame",
+    "component": "/Users/sanjana/work/Vue/CRUD/pages/startgame.vue",
+    "chunkName": "pages/startgame"
+  },
+  {
+    "name": "table",
+    "path": "/table",
+    "component": "/Users/sanjana/work/Vue/CRUD/pages/table.vue",
+    "chunkName": "pages/table"
+  },
+  {
+    "name": "todo",
+    "path": "/todo",
+    "component": "/Users/sanjana/work/Vue/CRUD/pages/todo.vue",
+    "chunkName": "pages/todo"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/sanjana/work/Vue/CRUD/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]
